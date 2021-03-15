@@ -1,0 +1,50 @@
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\DoctorManagementDB.mdf
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\DoctorManagementDB_log.ldf
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe.config
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\TodayProject\ConsoleGenericRepository\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB.mdf
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB_log.ldf
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe.config
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB.mdf
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB_log.ldf
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe.config
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csprojResolveAssemblyReference.cache
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB.mdf
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\DoctorManagementDB_log.ldf
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe.config
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\ConsoleGenericRepository.pdb
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.dll
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.xml
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csprojAssemblyReference.cache
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csproj.CoreCompileInputs.cache
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.csproj.CopyComplete
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.exe
+C:\Users\SHARIFUL ISLAM\Desktop\1258343\All C#\My Final CS Project\myConsoleProject\ConsoleGenericRepository\obj\Debug\ConsoleGenericRepository.pdb
